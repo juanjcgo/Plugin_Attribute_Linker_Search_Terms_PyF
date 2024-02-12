@@ -1,0 +1,14 @@
+.alst_card {
+    width: 70%;
+    overflow: hidden;
+}
+
+.alst_box_img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-img-top {
+    width: 130px;
+}
